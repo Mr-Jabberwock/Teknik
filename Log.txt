@@ -1,0 +1,5 @@
+msg-0 = hi
+msg-2 = how ya doin
+msg-4 = well im doin just fine
+msg-6 = i lied
+msg-8 = im dying inside
